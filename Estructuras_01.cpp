@@ -1,5 +1,5 @@
 //Estructuras_01  -----------------(página 65 presentación)-----------------------------------------------
-Programa que utiliza una estructura para almacenar datos relativos a un estudiante. Permite insertar datos en la estructura y acceder a los mismos.
+//Programa que utiliza una estructura para almacenar datos relativos a un estudiante. Permite insertar datos en la estructura y acceder a los mismos.
 
 #include <iostream>
 
