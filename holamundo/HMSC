@@ -1,0 +1,9 @@
+//hola mundo sin cabecera stdio.h HMSC la libreria iostream y el namespace std son necesarios para cout
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    cout << "Hola Mundo!" << endl;
+    return 0;
+}
