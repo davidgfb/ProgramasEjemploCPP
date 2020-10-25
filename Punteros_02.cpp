@@ -1,5 +1,5 @@
 //Punteros_02  ----------------------------------------------------------------
-Programa que utiliza punteros a entero y a carácter. Muestra los contenidos de las variables de dichos tipos así como el contenido de los punteros a las variables y las direcciones en que se almacenan éstos.
+//Programa que utiliza punteros a entero y a carácter. Muestra los contenidos de las variables de dichos tipos así como el contenido de los punteros a las variables y las direcciones en que se almacenan éstos.
 
 #include <iostream>
 
