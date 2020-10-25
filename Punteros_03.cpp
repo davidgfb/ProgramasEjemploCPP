@@ -1,5 +1,5 @@
 //Punteros_03  ----------------------------------------------------------------
-Programa que utiliza punteros a punteros a varios niveles.
+//Programa que utiliza punteros a punteros a varios niveles.
 
 #include <iostream>
 
