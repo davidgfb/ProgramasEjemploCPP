@@ -1,5 +1,5 @@
 //Punteros_04  ----------------------------------------------------------------
-Programa que utiliza punteros a cadenas de caracteres.
+//Programa que utiliza punteros a cadenas de caracteres.
 
 #include <iostream>
 
