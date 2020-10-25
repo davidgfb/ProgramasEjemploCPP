@@ -1,5 +1,5 @@
 //Punteros_05  ----------------------------------------------------------------
-Programa que utiliza punteros a cadenas de caracteres y operadores incrementales.
+//Programa que utiliza punteros a cadenas de caracteres y operadores incrementales.
 
 #include <iostream>
 #include <string.h>
