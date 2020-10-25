@@ -1,5 +1,5 @@
 //Punteros_01  ----------------------------------------------------------------
-Programa que permite acceder al contenido de una variable y conocer la dirección en la que se almacena dicho contenido. Además se muestra la diferencia entre copiar un valor en otra variable y en crear un alias.
+//Programa que permite acceder al contenido de una variable y conocer la dirección en la que se almacena dicho contenido. Además se muestra la diferencia entre copiar un valor en otra variable y en crear un alias.
 
 #include <iostream>
 
